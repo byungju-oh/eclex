@@ -11,7 +11,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 //import meatchain.UserBean;
-import meatchain.MemberVO;
+import gitupex.MemberVO;
 
 import java.sql.Connection;
 
